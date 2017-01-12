@@ -1,0 +1,12 @@
+{
+    "name": "studiopresent/slideshow",
+    "description": "Drupal 8 views slideshow libraries",
+    "type": "package",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Studio Present",
+            "email": "info@studiopresent.com"
+        }
+    ]
+}
