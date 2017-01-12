@@ -1,5 +1,5 @@
 {
-    "name": "studiopresent/slideshow",
+    "name": "studiopresent/slideshow-lib",
     "description": "Drupal 8 views slideshow libraries",
     "type": "package",
     "license": "GPL-2.0+",
