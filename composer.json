@@ -8,15 +8,5 @@
             "name": "Studio Present",
             "email": "info@studiopresent.com"
         }
-    ],
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/StudioPresent/slideshow-lib"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "StudioPresent/slideshow-lib": "*"
-    }
+    ]
 }
